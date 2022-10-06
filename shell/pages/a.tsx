@@ -1,7 +1,5 @@
 import MicrofrontendA from "http://localhost:7100/app-a/bundle.js";
 
-const A = () => {
+export default function A() {
   return <MicrofrontendA />;
-};
-
-export default A;
+}

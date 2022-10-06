@@ -1,7 +1,5 @@
-import MicrofrontendB from "http://localhost:7100/app-a/bundle.js";
+import MicrofrontendB from "http://localhost:7200/app-b/bundle.js";
 
-const B = () => {
+export default function B() {
   return <MicrofrontendB />;
-};
-
-export default B;
+}
