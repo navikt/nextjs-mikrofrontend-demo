@@ -1,6 +1,5 @@
-import React from "react";
 import App from "./App";
-import "./App.css";
+import "./Mikrofrontend.css";
 
 const Mikrofrontend = () => {
   return (
