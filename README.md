@@ -1,6 +1,6 @@
 # nextjs-mikrofrontend-demo
 
-Denne demoen bruker en experimental feature i nextjs som støtter [URL imports](https://nextjs.org/docs/api-reference/next.config.js/url-imports) og EcmaScript Moduler (ESM) for å importere mikrofrontends.
+Denne demoen bruker en experimental feature i nextjs som støtter [URL imports](https://nextjs.org/docs/api-reference/next.config.js/url-imports) for å importere mikrofrontends bygget med [Vite](https://vitejs.dev/).
 
 ## Kom i gang
 
