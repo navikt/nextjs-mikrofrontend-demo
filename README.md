@@ -5,5 +5,5 @@ Denne demoen bruker en experimental feature i nextjs som støtter [URL imports](
 ## Kom i gang
 
 - Bygg hver mikrofrontend med `npm run build`
-- Start hver mikrofrontend ned `npm run server`
+- Start hver mikrofrontend med `npm run server`
 - Start shell appen med `npm run dev`
